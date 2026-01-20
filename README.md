@@ -2,11 +2,11 @@
 Caso de estudio de dataset con datos bancarios de principales paises europeos y analisis acerca de abandono de clientes y visualizaciones en PowerBI
 
 ---
-
-
-![image.png](attachment:7a7fa45b-f280-4a06-867a-358aa965d9a2:image.png)
-
-![image.png](attachment:45884b7d-1f2f-4832-af81-4c38632f246d:image.png)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img width="751" height="497" alt="image" src="https://github.com/user-attachments/assets/f40ff7b0-dd59-4327-bf1f-7356239c2f12" style="flex: 1; max-width: 33%;" />
+  <img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/86da9573-1f3c-430b-9243-d871cdf520b2" style="flex: 1; max-width: 33%;" />
+  <img width="751" height="434" alt="image" src="https://github.com/user-attachments/assets/d68e6b99-5dc9-464c-8714-a643be9be6fb" style="flex: 1; max-width: 33%;" />
+</div>
 
 ---
 
