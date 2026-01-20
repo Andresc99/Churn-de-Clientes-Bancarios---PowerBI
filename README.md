@@ -41,7 +41,7 @@ Aunque hay más clientes de nacionalidad francesa, su score crediticio es menor 
 
 ## Recomendaciones al caso
 
-<img width="751" height="434" alt="image" src="https://github.com/user-attachments/assets/d68e6b99-5dc9-464c-8714-a643be9be6fb" 
+<img width="677" height="466" alt="image" src="https://github.com/user-attachments/assets/a36ce6db-54a7-4a48-893d-673ff1af5665" />
 
 ---
 
