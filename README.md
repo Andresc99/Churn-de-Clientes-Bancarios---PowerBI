@@ -3,7 +3,7 @@ Caso de estudio de dataset con datos bancarios de principales paises europeos y 
 
 ## Visuales en PowerBI
 ---
-| <img width="300" src="https://github.com/user-attachments/assets/f40ff7b0-dd59-4327-bf1f-7356239c2f12" alt="Image 1" /> | <img width="300" src="https://github.com/user-attachments/assets/86da9573-1f3c-430b-9243-d871cdf520b2" alt="Image 2" /> |
+| <img width="400" src="https://github.com/user-attachments/assets/f40ff7b0-dd59-4327-bf1f-7356239c2f12" alt="Image 1" /> | <img width="400" src="https://github.com/user-attachments/assets/86da9573-1f3c-430b-9243-d871cdf520b2" alt="Image 2" /> |
 |---|---|
 
 ---
