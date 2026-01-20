@@ -4,8 +4,8 @@ Caso de estudio de dataset con datos bancarios de principales paises europeos y 
 ## Visuales en PowerBI
 ---
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img width="751" height="497" alt="image" src="https://github.com/user-attachments/assets/f40ff7b0-dd59-4327-bf1f-7356239c2f12" style="flex: 1; max-width: 33%;" />
-  <img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/86da9573-1f3c-430b-9243-d871cdf520b2"
+  <img width="250" height="497" alt="image" src="https://github.com/user-attachments/assets/f40ff7b0-dd59-4327-bf1f-7356239c2f12" style="flex: 1; max-width: 33%;" />
+  <img width="250" height="490" alt="image" src="https://github.com/user-attachments/assets/86da9573-1f3c-430b-9243-d871cdf520b2"
 </div>
 
 ---
