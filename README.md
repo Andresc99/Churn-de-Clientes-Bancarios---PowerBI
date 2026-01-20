@@ -1,11 +1,11 @@
 # Churn-de-Clientes-Bancarios---PowerBI
 Caso de estudio de dataset con datos bancarios de principales paises europeos y analisis acerca de abandono de clientes y visualizaciones en PowerBI
 
+## Visuales en PowerBI
 ---
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img width="751" height="497" alt="image" src="https://github.com/user-attachments/assets/f40ff7b0-dd59-4327-bf1f-7356239c2f12" style="flex: 1; max-width: 33%;" />
-  <img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/86da9573-1f3c-430b-9243-d871cdf520b2" style="flex: 1; max-width: 33%;" />
-  <img width="751" height="434" alt="image" src="https://github.com/user-attachments/assets/d68e6b99-5dc9-464c-8714-a643be9be6fb" style="flex: 1; max-width: 33%;" />
+  <img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/86da9573-1f3c-430b-9243-d871cdf520b2"
 </div>
 
 ---
@@ -40,6 +40,10 @@ En donde Los Franceses tienen preferencia por este banco (+50%)
 ## ¿Diferencia entre clientes alemanes, franceses y españoles en cuanto al comportamiento de la cuenta?
 
 Aunque hay más clientes de nacionalidad francesa, su score crediticio es menor que el de Alemania y España. Los clientes españoles tienen un score promedio superior a 650 puntos, pero presentan un balance general y salario promedio inferiores a los franceses y muy por debajo de los alemanes.
+
+## Recomendaciones al caso
+
+<img width="751" height="434" alt="image" src="https://github.com/user-attachments/assets/d68e6b99-5dc9-464c-8714-a643be9be6fb" 
 
 ---
 
